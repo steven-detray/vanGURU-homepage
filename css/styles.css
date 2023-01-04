@@ -1,0 +1,110 @@
+.navbar {
+  background-color: #CA4E33;
+
+}
+
+.containter {
+  height: 100%;
+}
+
+.onethird {
+  height: 33%;
+}
+
+a {
+  color: white !important; 
+}
+
+h1 {
+  font-family: Lobster Two;
+  font-size: 82px;
+}
+
+body {
+  background-color: #FFFCF7;
+}
+
+.jumbotron {
+  background-image: url("../images/jumbotrontop.jpg");
+  background-size: cover;
+  height: 825px;
+  background-position: center;
+  vertical-align: middle;
+}
+
+.bg-primary {
+  color: #CA4E33;
+
+}
+
+.topmap {
+  background-image: url("../images/topmap.png");
+  background-size: cover;
+  max-width: 100%;
+  height: 1920px;
+}
+
+.whyvanlife {
+  background-size: cover;
+  height: 200px;
+  background-position: center;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.bluetopomap {
+  background-size: cover;
+  position: relative;
+  text-align: center;
+}
+
+.twovans {
+  background-position: center;
+  max-width: 75%;
+  height: auto;
+}
+
+.greenmountains {
+  background-size: cover;
+  position: relative;
+  text-align: center;
+}
+
+.leftalign {
+  text-align: start;
+}
+
+.btn-primary {
+  background-color: #03435E;
+}
+
+.vanlife101 {
+  background-size: cover;
+  height: 200px;
+  background-position: center;
+  vertical-align: middle;
+}
+
+.center text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.footer {
+  background-image: url("../images/desktopfooter.png");
+  background-size: cover;
+  position: relative;
+  height: 1500px;
+}
+
+.checkoutvanlifebutton {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
